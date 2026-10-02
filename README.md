@@ -4,6 +4,8 @@
 
 *Microservicio de identidad en .NET 10 que delega la autenticación a Microsoft Entra External ID y gestiona perfiles de usuario en PostgreSQL.*
 
+[![Website](https://img.shields.io/badge/Próximamente-sitio.web-lightblue)](https://github.com/ruizRojasFel) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ruizRojasFel/my_ms_identity?tab=MIT-1-ov-file)
+
 </div>
 
 <br>
