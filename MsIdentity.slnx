@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MsIdentity.Api/MsIdentity.Api.csproj" />
+    <Project Path="src/MsIdentity.Application/MsIdentity.Application.csproj" />
+    <Project Path="src/MsIdentity.Domain/MsIdentity.Domain.csproj" />
+    <Project Path="src/MsIdentity.Infrastructure/MsIdentity.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MsIdentity.IntegrationTests/MsIdentity.IntegrationTests.csproj" />
+    <Project Path="tests/MsIdentity.UnitTests/MsIdentity.UnitTests.csproj" />
+  </Folder>
+</Solution>

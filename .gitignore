@@ -1,0 +1,34 @@
+# Build
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+publish/
+artifacts/
+*.nupkg
+
+# Tests / cobertura
+TestResults/
+coverage/
+*.coverage
+*.trx
+
+# IDEs
+.vs/
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+.idea/
+*.user
+*.suo
+
+# Secretos y configuración local
+.env
+.env.*
+appsettings.*.local.json
+*.pfx
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
